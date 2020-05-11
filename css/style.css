@@ -1,0 +1,24 @@
+body{
+    background-color: #F8BDBE;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+h1{
+    color: crimson;
+    font-family: cursive;
+}
+
+h2{
+    color: crimson;
+    font-family: cursive;
+}
+
+.icones{
+    width: 30px;
+}
+
+.imagem_padrao{
+    width: 200px;
+    margin-top: 20px;
+}
